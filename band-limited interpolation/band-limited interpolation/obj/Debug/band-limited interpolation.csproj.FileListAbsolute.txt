@@ -1,0 +1,7 @@
+D:\program\band-limited interpolation\band-limited interpolation\bin\Debug\band-limited interpolation.exe.config
+D:\program\band-limited interpolation\band-limited interpolation\obj\Debug\band-limited interpolation.csproj.AssemblyReference.cache
+D:\program\band-limited interpolation\band-limited interpolation\obj\Debug\band-limited interpolation.csproj.CoreCompileInputs.cache
+D:\program\band-limited interpolation\band-limited interpolation\bin\Debug\band-limited interpolation.exe
+D:\program\band-limited interpolation\band-limited interpolation\bin\Debug\band-limited interpolation.pdb
+D:\program\band-limited interpolation\band-limited interpolation\obj\Debug\band-limited interpolation.exe
+D:\program\band-limited interpolation\band-limited interpolation\obj\Debug\band-limited interpolation.pdb
