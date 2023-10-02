@@ -1,0 +1,10 @@
+D:\program\convergence of periodic spectral method\convergence of periodic spectral method\bin\Debug\convergence of periodic spectral method.exe.config
+D:\program\convergence of periodic spectral method\convergence of periodic spectral method\bin\Debug\convergence of periodic spectral method.exe
+D:\program\convergence of periodic spectral method\convergence of periodic spectral method\bin\Debug\convergence of periodic spectral method.pdb
+D:\program\convergence of periodic spectral method\convergence of periodic spectral method\obj\Debug\convergence of periodic spectral method.csproj.AssemblyReference.cache
+D:\program\convergence of periodic spectral method\convergence of periodic spectral method\obj\Debug\convergence of periodic spectral method.csproj.CoreCompileInputs.cache
+D:\program\convergence of periodic spectral method\convergence of periodic spectral method\obj\Debug\convergence of periodic spectral method.exe
+D:\program\convergence of periodic spectral method\convergence of periodic spectral method\obj\Debug\convergence of periodic spectral method.pdb
+D:\program\convergence of periodic spectral method\convergence of periodic spectral method\bin\Debug\MathNet.Numerics.dll
+D:\program\convergence of periodic spectral method\convergence of periodic spectral method\bin\Debug\MathNet.Numerics.xml
+D:\program\convergence of periodic spectral method\convergence of periodic spectral method\obj\Debug\convergence of periodic spectral method.csproj.CopyComplete
