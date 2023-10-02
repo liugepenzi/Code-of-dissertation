@@ -1,0 +1,17 @@
+D:\program\periodic spectral differentiation\periodic spectral differentiation\bin\Debug\net6.0\periodic spectral differentiation.exe
+D:\program\periodic spectral differentiation\periodic spectral differentiation\bin\Debug\net6.0\periodic spectral differentiation.deps.json
+D:\program\periodic spectral differentiation\periodic spectral differentiation\bin\Debug\net6.0\periodic spectral differentiation.runtimeconfig.json
+D:\program\periodic spectral differentiation\periodic spectral differentiation\bin\Debug\net6.0\periodic spectral differentiation.dll
+D:\program\periodic spectral differentiation\periodic spectral differentiation\bin\Debug\net6.0\periodic spectral differentiation.pdb
+D:\program\periodic spectral differentiation\periodic spectral differentiation\bin\Debug\net6.0\MathNet.Numerics.dll
+D:\program\periodic spectral differentiation\periodic spectral differentiation\obj\Debug\net6.0\periodic spectral differentiation.csproj.AssemblyReference.cache
+D:\program\periodic spectral differentiation\periodic spectral differentiation\obj\Debug\net6.0\periodic spectral differentiation.GeneratedMSBuildEditorConfig.editorconfig
+D:\program\periodic spectral differentiation\periodic spectral differentiation\obj\Debug\net6.0\periodic spectral differentiation.AssemblyInfoInputs.cache
+D:\program\periodic spectral differentiation\periodic spectral differentiation\obj\Debug\net6.0\periodic spectral differentiation.AssemblyInfo.cs
+D:\program\periodic spectral differentiation\periodic spectral differentiation\obj\Debug\net6.0\periodic spectral differentiation.csproj.CoreCompileInputs.cache
+D:\program\periodic spectral differentiation\periodic spectral differentiation\obj\Debug\net6.0\periodic spectral differentiation.csproj.CopyComplete
+D:\program\periodic spectral differentiation\periodic spectral differentiation\obj\Debug\net6.0\periodic spectral differentiation.dll
+D:\program\periodic spectral differentiation\periodic spectral differentiation\obj\Debug\net6.0\refint\periodic spectral differentiation.dll
+D:\program\periodic spectral differentiation\periodic spectral differentiation\obj\Debug\net6.0\periodic spectral differentiation.pdb
+D:\program\periodic spectral differentiation\periodic spectral differentiation\obj\Debug\net6.0\periodic spectral differentiation.genruntimeconfig.cache
+D:\program\periodic spectral differentiation\periodic spectral differentiation\obj\Debug\net6.0\ref\periodic spectral differentiation.dll

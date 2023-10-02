@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5HCMvqmKjZ/cvrmL+P1Pej3c6xUXvDxYkIQfeUZ4FrRdXlkna70LK0MPKhfM+96DyrvfjYwjqR+d2jDqMGVt2A==",
+  "success": true,
+  "projectFilePath": "D:\\program\\periodic spectral differentiation\\periodic spectral differentiation\\periodic spectral differentiation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
