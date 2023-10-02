@@ -1,0 +1,10 @@
+D:\program\Finite difference method\Finite difference method\bin\Debug\Finite difference method.exe.config
+D:\program\Finite difference method\Finite difference method\bin\Debug\Finite difference method.exe
+D:\program\Finite difference method\Finite difference method\bin\Debug\Finite difference method.pdb
+D:\program\Finite difference method\Finite difference method\obj\Debug\Finite difference method.exe
+D:\program\Finite difference method\Finite difference method\obj\Debug\Finite difference method.pdb
+D:\program\Finite difference method\Finite difference method\bin\Debug\MathNet.Numerics.dll
+D:\program\Finite difference method\Finite difference method\bin\Debug\MathNet.Numerics.xml
+D:\program\Finite difference method\Finite difference method\obj\Debug\Finite difference method.csproj.AssemblyReference.cache
+D:\program\Finite difference method\Finite difference method\obj\Debug\Finite difference method.csproj.CoreCompileInputs.cache
+D:\program\Finite difference method\Finite difference method\obj\Debug\Finite difference method.csproj.CopyComplete
