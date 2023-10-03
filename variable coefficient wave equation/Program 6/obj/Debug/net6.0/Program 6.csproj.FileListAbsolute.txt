@@ -1,0 +1,17 @@
+D:\program\Program 6\Program 6\bin\Debug\net6.0\Program 6.exe
+D:\program\Program 6\Program 6\bin\Debug\net6.0\Program 6.deps.json
+D:\program\Program 6\Program 6\bin\Debug\net6.0\Program 6.runtimeconfig.json
+D:\program\Program 6\Program 6\bin\Debug\net6.0\Program 6.dll
+D:\program\Program 6\Program 6\bin\Debug\net6.0\Program 6.pdb
+D:\program\Program 6\Program 6\bin\Debug\net6.0\MathNet.Numerics.dll
+D:\program\Program 6\Program 6\obj\Debug\net6.0\Program 6.csproj.AssemblyReference.cache
+D:\program\Program 6\Program 6\obj\Debug\net6.0\Program 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\program\Program 6\Program 6\obj\Debug\net6.0\Program 6.AssemblyInfoInputs.cache
+D:\program\Program 6\Program 6\obj\Debug\net6.0\Program 6.AssemblyInfo.cs
+D:\program\Program 6\Program 6\obj\Debug\net6.0\Program 6.csproj.CoreCompileInputs.cache
+D:\program\Program 6\Program 6\obj\Debug\net6.0\Program 6.csproj.CopyComplete
+D:\program\Program 6\Program 6\obj\Debug\net6.0\Program 6.dll
+D:\program\Program 6\Program 6\obj\Debug\net6.0\refint\Program 6.dll
+D:\program\Program 6\Program 6\obj\Debug\net6.0\Program 6.pdb
+D:\program\Program 6\Program 6\obj\Debug\net6.0\Program 6.genruntimeconfig.cache
+D:\program\Program 6\Program 6\obj\Debug\net6.0\ref\Program 6.dll
