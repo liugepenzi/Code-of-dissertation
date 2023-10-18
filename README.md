@@ -2,7 +2,7 @@
 
 This project is used to solve the  Korteweg-De Vries equation(KDV) equation.
 
-The user can customize the initial conditions of the equation. These conditions are manually input by the user, and the program will create an object called "Simulation_Parameters" to record these fields. Including the number of points of the grid, the maximum time of calculation, the time step, the coefficients of the KdV equation, the initial value condition of the function u, and the scaling ratio of the drawing.
+The user can customize the initial conditions of the equation. These conditions are manually input by the user, and the program will create an object called "Simulation Parameters" to record these fields. Including the number of points of the grid, the maximum time of calculation, the time step, the coefficients of the KdV equation, the initial value condition of the function u, and the scaling ratio of the drawing.
 
 Note:
 The third-party library ILNumerics is used in the project. The library is not a free resource, but it provides multiple free trials. If you just want to use it for simple academic purposes, such as running this project, then you only need to go to the official website Fill in your email address to get a free activation code.
